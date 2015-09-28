@@ -19,3 +19,34 @@ Understaning your audience and catering to them can hurt, especially when they w
 - Pyxley: python powered dashboards. http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/
 - Shiny: interactive plotting with R. http://shiny.rstudio.com/
 - D3 Tips and Tricks, a free e-book. https://leanpub.com/D3-Tips-and-Tricks
+
+##From Week 5: Vendor Tutorials
+
+**Tableau Desktop**
+- http://www.tableausoftware.com/products/desktop
+- http://www.tableausoftware.com/learn/training
+
+**Adobe Illustrator**
+- http://www.adobe.com/products/creativecloud/students.edu.html
+- https://helpx.adobe.com/creative-cloud/learn/tutorials/illustrator.html
+
+**R and ggplot2**
+- http://www.r-project.org
+- http://ggplot2.org
+- http://wiki.stdout.org/rcookbook/Graphs/
+
+**d3**
+- http://d3js.org
+- http://chimera.labs.oreilly.com/books/1230000000345/index.html
+- https://github.com/mbostock/d3/wiki/Tutorials
+- Refreshers on HTML, the DOM, CSS, SVG, Javascript
+- http://chimera.labs.oreilly.com/books/1230000000345/ch03.html
+
+**Highcharts**
+- http://www.highcharts.com
+- http://www.highcharts.com/docs
+
+**VisIt**
+- https://www.llnl.gov/visit
+- https://wci.llnl.gov/codes/visit/manuals.html
+
