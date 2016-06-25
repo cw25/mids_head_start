@@ -19,22 +19,22 @@ This course primes data science professionals for work using modern cloud comput
 
 ## Links  
 
-MIDS-scaling-up/coursework | https://github.com/MIDS-scaling-up/coursework
-MIDS Scaling Up - Google Groups | https://groups.google.com/forum/#!forum/mids-scaling-up
-Command Line Crash Coure | http://cli.learncodethehardway.org/book/
-Bash Cheatsheet | http://cli.learncodethehardway.org/bash_cheat_sheet.pdf
-How To Use Linux Screen | http://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/#logging
-Tmux Crash Course - alternative to screen | https://robots.thoughtbot.com/a-tmux-crash-course
-Tmux Cheatsheet | https://gist.github.com/MohamedAlaa/2961058
-Bash Kernel for IPython - Use the notebook for your homework | https://github.com/takluyver/bash_kernel
-Python | SoftLayer Development Network | http://sldn.softlayer.com/article/Python
-Log In as a New User | KnowledgeLayer | http://knowledgelayer.softlayer.com/gettingstarted/how-to/log-in-as-a-new-user
-SoftLayer API Python Client 4.1.1 — SoftLayer API Python Client 4.1.1 documentation | https://softlayer-api-python-client.readthedocs.org/en/latest/
-Salt Stack: Full list of builtin execution modules | https://docs.saltstack.com/en/latest/ref/modules/all/
-SoftLayer API | SoftLayer Development Network | http://developer.softlayer.com/reference/softlayerapi
-Servers | SoftLayer Blog | http://blog.softlayer.com/tag/servers
-Security: 10 Tips for Hardening a Linux Server | SoftLayer Blog | http://blog.softlayer.com/2014/security-10-tips-hardening-linux-server
-SSH Filesystem - copy a folder from a remote server | http://fuse.sourceforge.net/sshfs.html
-How do I permit specific users SSH access? | SoftLayer | https://knowledgelayer.softlayer.com/learning/how-do-i-permit-specific-users-ssh-access
-How To Set Up SSH Keys | DigitalOcean | https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
-HowTos/Network/SecuringSSH - CentOS Wiki | https://wiki.centos.org/HowTos/Network/SecuringSSH
+- MIDS-scaling-up/coursework | https://github.com/MIDS-scaling-up/coursework
+- MIDS Scaling Up - Google Groups | https://groups.google.com/forum/#!forum/mids-scaling-up
+- Command Line Crash Coure | http://cli.learncodethehardway.org/book/
+- Bash Cheatsheet | http://cli.learncodethehardway.org/bash_cheat_sheet.pdf
+- How To Use Linux Screen | http://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/#logging
+- Tmux Crash Course - alternative to screen | https://robots.thoughtbot.com/a-tmux-crash-course
+- Tmux Cheatsheet | https://gist.github.com/MohamedAlaa/2961058
+- Bash Kernel for IPython - Use the notebook for your homework | https://github.com/takluyver/bash_kernel
+- Python | SoftLayer Development Network | http://sldn.softlayer.com/article/Python
+- Log In as a New User | KnowledgeLayer | http://knowledgelayer.softlayer.com/gettingstarted/how-to/log-in-as-a-new-user
+- SoftLayer API Python Client 4.1.1 — SoftLayer API Python Client 4.1.1 documentation | https://softlayer-api-python-client.readthedocs.org/en/latest/
+- Salt Stack: Full list of builtin execution modules | https://docs.saltstack.com/en/latest/ref/modules/all/
+- SoftLayer API | SoftLayer Development Network | http://developer.softlayer.com/reference/softlayerapi
+- Servers | SoftLayer Blog | http://blog.softlayer.com/tag/servers
+- Security: 10 Tips for Hardening a Linux Server | SoftLayer Blog | http://blog.softlayer.com/2014/security-10-tips-hardening-linux-server
+- SSH Filesystem - copy a folder from a remote server | http://fuse.sourceforge.net/sshfs.html
+- How do I permit specific users SSH access? | SoftLayer | https://knowledgelayer.softlayer.com/learning/how-do-i-permit-specific-users-ssh-access
+- How To Set Up SSH Keys | DigitalOcean | https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
+- HowTos/Network/SecuringSSH - CentOS Wiki | https://wiki.centos.org/HowTos/Network/SecuringSSH
