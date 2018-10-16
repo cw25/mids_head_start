@@ -6,7 +6,7 @@ This course guides someone with basic understanding of statistics through the sa
 
 You will learn:
 - The Central Limit Theorem
-- Normal Distibution
+- Normal Distribution
 - Hypothesis Testing
 - Parametric vs. Non-parametric tests
 - Linear Regression
